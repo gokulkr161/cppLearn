@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Cpp_learn.dir/src/main.cpp.o CMakeFiles/Cpp_learn.dir/src/Player.cpp.o CMakeFiles/Cpp_learn.dir/src/Account.cpp.o -o Cpp_learn 

@@ -1,0 +1,3 @@
+/home/goku/projects/Cpp_learn/build/CMakeFiles/Cpp_learn.dir
+/home/goku/projects/Cpp_learn/build/CMakeFiles/edit_cache.dir
+/home/goku/projects/Cpp_learn/build/CMakeFiles/rebuild_cache.dir
